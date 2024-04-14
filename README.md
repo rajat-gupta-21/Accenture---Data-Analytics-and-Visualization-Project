@@ -1,1 +1,1 @@
-# Accenture---Data-Analytics-and-Visualization-Project
+# Social Buzz Data-Analytics-and-Visualization-Project (Accenture)
